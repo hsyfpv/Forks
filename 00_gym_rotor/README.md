@@ -1,4 +1,4 @@
-## Notes
+## Notes 
 This is a forked repository of [OpenAI Gym](https://github.com/openai/gym), so that functionalities and environemtns are identical except we add two quadrotor models, [rate control](https://github.com/inkyusa/gym_rotor/blob/master/gym/envs/mujoco/quad_rate.py) and [ball bounding quadrotor model](https://github.com/inkyusa/gym_rotor/blob/master/gym/envs/mujoco/ball_bouncing_quad.py). Threfore, this repo only focuses on these models and please refer to [OpenAI Gym](https://github.com/openai/gym) for more detail (e.g., installation, and other models).
 
 
